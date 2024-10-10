@@ -2,4 +2,5 @@
     <string name="app_name">RESTAPIs</string>
     <string name="username">username</string>
     <string name="password">password</string>
+    <string name="login_btn">Login</string>
 </resources>
